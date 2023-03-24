@@ -42,14 +42,17 @@
 `docker push`
 - Příkaz docker push nahrává image do Docker registry:
 
-`docker build``
+`docker build`
 - Příkaz docker build vytváří image z Dockerfile:
 
 ## Můj projekt
 
   - Při tvorbě jsem střídal Docker Desktop, Docker Hub a příkazový řádek. 
   - Zde je *Dockerfile*`FROM nginx COPY src /usr/share/nginx/html`
+  
 ### Build image v Docker Desktop
+
   ![Build image v Docker Desktop](/screenshots/build.png)
-### Container v Docker Desktop  
+### Container v Docker Desktop 
+
   ![Container v Docker Desktop](/screenshots/container.png)
