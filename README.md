@@ -56,3 +56,5 @@
 ### Container v Docker Desktop 
 
   ![Container v Docker Desktop](/screenshots/container.png)
+### Build s použitím CMD
+  ![Build v CMD](/screenshots/build-cmd.png)
