@@ -49,3 +49,7 @@
 
   - Při tvorbě jsem střídal Docker Desktop, Docker Hub a příkazový řádek. 
   - Zde je *Dockerfile*`FROM nginx COPY src /usr/share/nginx/html`
+
+  ![Build v Docker Desktop](/screenshots/build.png)
+  
+  ![Container v Docker Desktop](/screenshots/container.png)
